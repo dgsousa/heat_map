@@ -1,0 +1,31 @@
+.heat_map {
+	width: 1550px;
+	margin: auto;
+	border: 1px solid black;
+	font-size: 22px;
+}
+
+.x-axis, .y-axis {
+	font-size: 14px;
+}
+
+
+.tooltip {
+	text-align: center;
+	padding: 10px;
+}
+
+.tooltip h2 {
+	margin: 0;
+}
+
+.tooltip h3 {
+	margin: 0;
+	margin-top: -10px;
+}
+
+.tooltip h4 {
+	margin: 0;
+	margin-top: -10px;
+}
+
